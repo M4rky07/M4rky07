@@ -1,4 +1,6 @@
-<img src="https://github.com/M4rky07/M4rky07/blob/main/banner 23 de ago. de 2025, 14_08_39.png" width="75%">
+<p alingn="center">
+<img src="https://github.com/M4rky07/M4rky07/blob/main/banner 23 de ago. de 2025, 14_08_39.png" width="75%" alt="Banner">
+</p>
 
 # Olá, eu sou o Júnior 👋
 - 🔭 Atualmente estudando: (HTML, CSS, JS, python , C)
