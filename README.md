@@ -3,7 +3,7 @@
 </p>
 
 # Olá, eu sou o Júnior 👋
-- 🔭 Atualmente estudando: (HTML, CSS, JS, Python, C)
+- 🔭 Atualmente estudando: (HTML, CSS, JS, Python, C, Java)
 - 🌱 Aprendendo: Git e GitHub
 - 💬 Pergunte-me sobre: programação iniciante
 - ⚡ Curiosidade: adoro aprender coisas novas todos os dias!
