@@ -1,13 +1,17 @@
-<p align="center">
-  <img src="https://github.com/M4rky07/M4rky07/blob/main/banner 23 de ago. de 2025, 14_08_39.png" width="75%" alt="Banner">
-</p>
+## Opa!!! Sou Júnior Gomes
 
-# Olá, eu sou o Júnior 👋
-- 🔭 Atualmente estudando: (HTML, CSS, JS, Python, C, Java)
-- 🌱 Aprendendo: Git e GitHub
-- 💬 Pergunte-me sobre: programação iniciante
-- ⚡ Curiosidade: adoro aprender coisas novas todos os dias!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4arky07&show_icons=true&theme=dark)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juniorgomes17_/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rky07&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rky07&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</div>
+
+
+
