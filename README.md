@@ -1,11 +1,11 @@
 ## Opa!!! Sou Júnior Gomes
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4rky07&show_icons=true&theme=tokyonight" />
-</div>
+# Entre em contato:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rky07&layout=compact&theme=tokyonight" />
+  <a href="https://www.instagram.com/juniorgomes17_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
